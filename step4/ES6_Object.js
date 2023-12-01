@@ -31,6 +31,7 @@ Person.name =  "Umairc" // for dynamic change
 
 //     name : 'Umair',
 //     walk() {console.log(this)}
+                                     //optional code for reminder  this.name   returns  (Umair)
 // }
 // Person.walk();
 
